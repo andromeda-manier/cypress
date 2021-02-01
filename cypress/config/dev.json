@@ -1,0 +1,12 @@
+{
+  "baseUrl": "https://www.google.com",
+  "env": {
+    "db": {
+      "user": "postgres_qa",
+      "host": "postgres-qa-rs.internal.sedexonline.com",
+      "database": "spectrum_audit_qa",
+      "password": "$TIiF}PX",
+      "port":5432
+    }
+  }
+}

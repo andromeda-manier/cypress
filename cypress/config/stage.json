@@ -1,0 +1,15 @@
+{
+  "baseUrl": "https://www.github.com",
+  "env": {
+    "db": {
+      "userName": "ndc-admin",
+      "password": "Abcd1234",
+      "server": "ndc.database.windows.net",
+      "options": {
+        "database": "ndc",
+        "encrypt": true,
+        "rowCollectionOnRequestCompletion" : true
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "ignoreTestFiles": "*.js",
+  "testFiles": "**/*.feature",
+  "viewportWidth": 1360,
+  "viewportHeight": 790,
+  "reporter": "cypress-multi-reporters",
+  "reporterOptions": {
+    "configFile": "reporter-config.json"
+  },
+  "chromeWebSecurity": false
+}

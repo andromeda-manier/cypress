@@ -1,0 +1,17 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+**/.idea
+**/.vscode
+**/node_modules
+**/videos/
+**/screenshots/
+**/reports-cucumber/
+**/reports-mocha/
+**/results
+**/xunit.xml
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+

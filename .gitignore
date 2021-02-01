@@ -12,6 +12,7 @@
 **/results
 **/xunit.xml
 /dataSources.local.xml
+**/sd-automation-tests.iml
 # Editor-based HTTP Client requests
 /httpRequests/
 
